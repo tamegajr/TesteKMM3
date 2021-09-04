@@ -6,7 +6,7 @@ class Greeting {
     fun greeting(): String {
 //        val response: String
 //        response=""
-        return "Hello, ${Platform().platform}!" +
+        return "Hello, ${Platform().platform}!" + "\n" +
                 "Vamos ver se consigo entender esse lance do Github!!"
 
     //+
